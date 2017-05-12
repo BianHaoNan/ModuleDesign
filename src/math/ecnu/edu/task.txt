@@ -1,0 +1,1 @@
+{"task":[{"id":1, "name":"选择势力", "target":"force_choose", "reward":"copper,100"},]}
